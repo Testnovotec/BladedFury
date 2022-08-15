@@ -5,7 +5,7 @@
 
 /* Estilo do body */
 body {
-  background: url(imagens/background\ 1.png) center;
+  background-image: url(imagens/background\ 1.png) center no-repeat;
   font-family: Arial;
   background-attachment: fixed;
   margin: 0;
